@@ -16,6 +16,7 @@
     "importHelpers": true,
     "target": "es2015",
     "module": "es2020",
+    "strictPropertyInitialization": false,
     "lib": [
       "es2018",
       "dom"
@@ -24,6 +25,7 @@
   "angularCompilerOptions": {
     "strictInjectionParameters": true,
     "strictInputAccessModifiers": true,
+    "strictPropertyInitialization": false,
     "strictTemplates": true
   }
 }
